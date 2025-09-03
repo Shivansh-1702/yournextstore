@@ -65,7 +65,7 @@ export function CommerceGPT() {
 					</div>
 					<YnsLink
 						className="bg-black rounded-full text-white px-4 py-1 text-sm"
-						href="https://github.com/yournextstore/yournextstore"
+						href=" jewellery/amoha jewellery"
 						target="_blank"
 					>
 						View on GitHub

@@ -4,10 +4,10 @@
 <table>
 <tr>
 <td>
-	<a href="https://yournextstore.com/discord"><img src="https://img.shields.io/discord/1206629600483082341?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=%23555" alt="Join Discord" /></a>
+	<a href="https://amoha jewellery.com/discord"><img src="https://img.shields.io/discord/1206629600483082341?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=%23555" alt="Join Discord" /></a>
 </td>
 <td>
-	<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyournextstore%2Fyournextstore&env=ENABLE_EXPERIMENTAL_COREPACK,NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY,STRIPE_SECRET_KEY,STRIPE_CURRENCY&envDescription=Read%20more%20about%20required%20env%20variables%20in%20YNS&envLink=https%3A%2F%2Fgithub.com%2Fyournextstore%2Fyournextstore%2Ftree%2Fupcoming%3Ftab%3Dreadme-ov-file%23add-environmental-variables&project-name=yournextstore&repository-name=yournextstore&demo-title=Your%20Next%20Store&demo-description=A%20Next.js%20boilerplate%20for%20building%20your%20online%20store%20instantly%3A%20simple%2C%20quick%2C%20powerful.&demo-url=https%3A%2F%2Fdemo.yournextstore.com%2F&demo-image=https%3A%2F%2Fyournextstore.com%2Fdemo.png"><img src="https://vercel.com/button" alt="Deploy with Vercel" /></a>
+	<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Famoha jewellery%2Famoha jewellery&env=ENABLE_EXPERIMENTAL_COREPACK,NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY,STRIPE_SECRET_KEY,STRIPE_CURRENCY&envDescription=Read%20more%20about%20required%20env%20variables%20in%20YNS&envLink=https%3A%2F%2Fgithub.com%2Famoha jewellery%2Famoha jewellery%2Ftree%2Fupcoming%3Ftab%3Dreadme-ov-file%23add-environmental-variables&project-name=amoha jewellery&repository-name=amoha jewellery&demo-title=Your%20Next%20Store&demo-description=A%20Next.js%20boilerplate%20for%20building%20your%20online%20store%20instantly%3A%20simple%2C%20quick%2C%20powerful.&demo-url=https%3A%2F%2Fdemo.amoha jewellery.com%2F&demo-image=https%3A%2F%2Famoha jewellery.com%2Fdemo.png"><img src="https://vercel.com/button" alt="Deploy with Vercel" /></a>
 </td>
 <td>
 <a href="https://www.producthunt.com/posts/your-next-store?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-your&#0045;next&#0045;store">
@@ -27,13 +27,13 @@
 </tr>
 </table>
 
-👉 [demo.yournextstore.com](https://demo.yournextstore.com/) 👈
+👉 [demo.amoha jewellery.com](https://demo.amoha jewellery.com/) 👈
 
 </div>
 
 ## 演示
 
-https://github.com/user-attachments/assets/64197310-29bd-4dd3-a736-1494340e20e8
+
 
 ## 前提条件
 
@@ -82,9 +82,9 @@ YNS 与 [Stripe](https://stripe.com) 紧密整合，因此你需要有一个 Str
 - `NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY` – Stripe 发布密钥 (publishable key)
 - `STRIPE_SECRET_KEY` – Stripe 密钥 (secret key)
 - `STRIPE_CURRENCY` – 用于确定你的商店的货币。目前只允许使用单一货币，应该使用三个字母的 ISO 代码（例如 `usd`）。
-- `NEXT_PUBLIC_URL` – **在 Vercel 上可选** 不带结尾斜杠的商店 URL 网址，例如 `https://demo.yournextstore.com`。首次构建时，你应将其设置为任何有效的 URL，例如 `http://localhost:3000`。
+- `NEXT_PUBLIC_URL` – **在 Vercel 上可选** 不带结尾斜杠的商店 URL 网址，例如 `https://demo.amoha jewellery.com`。首次构建时，你应将其设置为任何有效的 URL，例如 `http://localhost:3000`。
 
-https://github.com/yournextstore/.github/assets/200613/01d27f69-00dc-446e-bc81-5dea2587f346
+ jewellery/.github/assets/200613/01d27f69-00dc-446e-bc81-5dea2587f346
 
 ### 可选的环境变量
 
@@ -165,7 +165,7 @@ Your Next Store 集成了 Stripe 税务的预览功能。要启用它，请将 `
 
 要在 Vercel 上部署，请点击以下按钮，设置你的 GitHub 仓库和环境变量，然后点击**部署 (Deploy)**。确保将 `ENABLE_EXPERIMENTAL_COREPACK` 变量值设置为 `1`。
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyournextstore%2Fyournextstore&env=ENABLE_EXPERIMENTAL_COREPACK,NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY,STRIPE_SECRET_KEY,STRIPE_CURRENCY&envDescription=Read%20more%20about%20required%20env%20variables%20in%20YNS&envLink=https%3A%2F%2Fgithub.com%2Fyournextstore%2Fyournextstore%2Ftree%2Fupcoming%3Ftab%3Dreadme-ov-file%23add-environmental-variables&project-name=yournextstore&repository-name=yournextstore&demo-title=Your%20Next%20Store&demo-description=A%20Next.js%20boilerplate%20for%20building%20your%20online%20store%20instantly%3A%20simple%2C%20quick%2C%20powerful.&demo-url=https%3A%2F%2Fdemo.yournextstore.com%2F&demo-image=https%3A%2F%2Fyournextstore.com%2Fdemo.png)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Famoha jewellery%2Famoha jewellery&env=ENABLE_EXPERIMENTAL_COREPACK,NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY,STRIPE_SECRET_KEY,STRIPE_CURRENCY&envDescription=Read%20more%20about%20required%20env%20variables%20in%20YNS&envLink=https%3A%2F%2Fgithub.com%2Famoha jewellery%2Famoha jewellery%2Ftree%2Fupcoming%3Ftab%3Dreadme-ov-file%23add-environmental-variables&project-name=amoha jewellery&repository-name=amoha jewellery&demo-title=Your%20Next%20Store&demo-description=A%20Next.js%20boilerplate%20for%20building%20your%20online%20store%20instantly%3A%20simple%2C%20quick%2C%20powerful.&demo-url=https%3A%2F%2Fdemo.amoha jewellery.com%2F&demo-image=https%3A%2F%2Famoha jewellery.com%2Fdemo.png)
 
 ### 自建 VPS
 

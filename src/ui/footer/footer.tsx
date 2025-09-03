@@ -17,15 +17,15 @@ const sections = [
 		links: [
 			{
 				label: "Features",
-				href: "https://yournextstore.com/#features",
+				href: "https://amoha jewellery.com/#features",
 			},
 			{
 				label: "Pricing",
-				href: "https://yournextstore.com/#pricing",
+				href: "https://amoha jewellery.com/#pricing",
 			},
 			{
 				label: "Contact Us",
-				href: "mailto:hi@yournextstore.com",
+				href: "mailto:hi@amoha jewellery.com",
 			},
 		],
 	},
